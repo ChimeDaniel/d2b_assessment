@@ -1,0 +1,13 @@
+Data Warehouse Credentials
+The following credentials are used to access the data warehouse.
+
+PLEASE NOTE THE S3 BUCKET YOU ARE INTERACTING WITH IS PUBLIC. Learn how to access it here: Access Public Bucket Without AWS Credentials
+
+USERNAME	danichim1842
+PASSWORD	A4UdNQnyxx
+ID	danichim1842
+HOST	d2b-internal-assessment-dwh.cxeuj0ektqdz.eu-central-1.rds.amazonaws.com
+PORT	5432
+DB_NAME	d2b_assessment
+STAGING_SCHEMA	danichim1842_staging
+ANALYTICS_SCHEMA	danichim1842_analytics
